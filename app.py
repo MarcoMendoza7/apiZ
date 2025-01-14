@@ -17,6 +17,7 @@ notebook_mapping = {
     "transformadores_pipelines": "3501_Creacion-de-Transformadores-y-Pipelines-Personalizados.ipynb",
     "svm": "3501_Support-Vector-Machine.ipynb",
     "tree": "3501_Arboles_De_Desicion.ipynb",
+    "new": "3501_Regresion_Logistica_DataSet.ipynb",
 }
 
 # Ruta a la carpeta de notebooks
