@@ -15,6 +15,8 @@ notebook_mapping = {
     "preparacion_dataset": "3501_Preparacion-del-DataSet.ipynb",
     "evaluacion_resultados": "3501_Evaluación_de_Resultados.ipynb",
     "transformadores_pipelines": "3501_Creacion-de-Transformadores-y-Pipelines-Personalizados.ipynb",
+    "svm": "3501_Support-Vector-Machine.ipynb",
+    "tree": "3501_Arboles_De_Desicion.ipynb",
 }
 
 # Ruta a la carpeta de notebooks
